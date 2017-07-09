@@ -30,9 +30,9 @@ es más cómodo y rápido para hacer un cambio en el sistema.
 
 AUTORES
 =======
-Felipe Duve, felipe.duve@alumnos.uv.cl
-Hugo Mancilla, hugo.mancilla@alumnos.uv.cl
-Javier Pizarro, javier.pizarro@alumnos.uv.cl
+Felipe Duve, felipe.duve@alumnos.uv.cl<br />
+Hugo Mancilla, hugo.mancilla@alumnos.uv.cl<br />
+Javier Pizarro, javier.pizarro@alumnos.uv.cl<br />
 Hong Xiang, hong.xiang@alumnos.uv.cl
 
 DATOS DE PRUEBA PARA HITO3
@@ -41,12 +41,12 @@ DATOS DE PRUEBA PARA HITO3
 LOGIN
 Nombre de usuario:Francisco<br />
 Password:1234<br />
-Nombre de usuario:Hugo
-Password:123
-Nombre de usuario:Javier
+Nombre de usuario:Hugo<br />
+Password:123<br />
+Nombre de usuario:Javier<br />
 Password:321
 
 DATABASE
-Database:arriendos
-User:root
+Database:arriendos<br />
+User:root<br />
 Pass:""
