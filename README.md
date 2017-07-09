@@ -38,7 +38,7 @@ Hong Xiang, hong.xiang@alumnos.uv.cl
 DATOS DE PRUEBA PARA HITO3
 ==========================
 
-LOGIN
+LOGIN<br />
 Nombre de usuario:Francisco<br />
 Password:1234<br />
 Nombre de usuario:Hugo<br />
@@ -46,7 +46,7 @@ Password:123<br />
 Nombre de usuario:Javier<br />
 Password:321
 
-DATABASE
+DATABASE<br />
 Database:arriendos<br />
 User:root<br />
 Pass:""
