@@ -1,7 +1,7 @@
 ﻿HITO 3 - Fundamentos de Ingieneria de Software
 ==============================================
-	Sistema autonomo para reservas de canchas en recinto deporitov Recoleta 
-desarrollado con el framework CodeIgniter v3.
+	Sistema autónomo para reservas de canchas en recinto deportivo Recoleta 
+	desarrollado con el framework CodeIgniter v3.
 
 ¿En el sistema como se resuelve el requisito no funcional de seguridad?
 
@@ -19,7 +19,7 @@ motores de bd?
 La aplicación al estar desarrollada con el framework CodeIgniter, cada consulta sql y cada
 conexion a la base de datos, se realiza mediante las librerías que ofrece el framework, y este
 a su vez al configurarse, permite realizar la conexión a una base de datos mediante distintos
-motores de bd (sqlite,mysql,postgreeSQL).
+motores de bd (SQLite,mysql,postgreSQL).
 
 ¿En el sistema como se resuelve el requisito no funcional de escalabilidad?
 
@@ -30,10 +30,10 @@ es más cómodo y rápido para hacer un cambio en el sistema.
 
 AUTORES
 =======
-Felipe Duve, felipe.duve@alumnos.uv.cl (ward)
-Hugo Mancilla, hugo.mancilla@alumnos.uv.cl (carry)
-Javier Pizarro, javier.pizarro@alumnos.uv.cl (support)
-Hong Xiang, hong.xiang@alumnos.uv.cl (minion)
+Felipe Duve, felipe.duve@alumnos.uv.cl
+Hugo Mancilla, hugo.mancilla@alumnos.uv.cl
+Javier Pizarro, javier.pizarro@alumnos.uv.cl
+Hong Xiang, hong.xiang@alumnos.uv.cl
 
 DATOS DE PRUEBA PARA HITO3
 ==========================
