@@ -1,4 +1,4 @@
-﻿HITO 3 - Fundamentos de Ingieneria de Software
+﻿HITO 3 - Fundamentos de Ingienería de Software
 ==============================================
 	Sistema autónomo para reservas de canchas en recinto deportivo Recoleta 
 	desarrollado con el framework CodeIgniter v3.
