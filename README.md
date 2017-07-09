@@ -39,8 +39,8 @@ DATOS DE PRUEBA PARA HITO3
 ==========================
 
 LOGIN
-Nombre de usuario:Francisco
-Password:1234
+Nombre de usuario:Francisco<br />
+Password:1234<br />
 Nombre de usuario:Hugo
 Password:123
 Nombre de usuario:Javier
