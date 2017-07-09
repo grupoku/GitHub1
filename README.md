@@ -39,14 +39,14 @@ DATOS DE PRUEBA PARA HITO3
 ==========================
 
 LOGIN
-Nombre de usuario:Francisco__
-Password:1234__
-Nombre de usuario:Hugo__
-Password:123__
-Nombre de usuario:Javier__
-Password:321__
+Nombre de usuario:Francisco
+Password:1234
+Nombre de usuario:Hugo
+Password:123
+Nombre de usuario:Javier
+Password:321
 
 DATABASE
-Database:arriendos__
-User:root__
-Pass:""__
+Database:arriendos
+User:root
+Pass:""
